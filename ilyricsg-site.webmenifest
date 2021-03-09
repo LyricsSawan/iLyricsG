@@ -1,0 +1,39 @@
+{
+
+    "name": "iLyricsG",
+
+    "short_name": "iLyricsG",
+
+    "icons": [
+
+        {
+
+            "src": "https://1.bp.blogspot.com/-4N-aKD-gwBE/YEb4-UUPkPI/AAAAAAAAFxE/dFCr0r3Jbg8GWLaUzkmoWtoOIiEQc56qgCNcBGAsYHQ/s0/android-chrome-192x192.png",
+
+            "sizes": "192x192",
+
+            "type": "image/png"
+
+        },
+
+        {
+
+            "src": "https://1.bp.blogspot.com/-MP4641u_PBg/YEb4-jaaxRI/AAAAAAAAFxI/QAJtwUurF3cZynAz7OfrLoyOhYNXddaGACNcBGAsYHQ/s0/android-chrome-512x512.png",
+
+            "sizes": "512x512",
+
+            "type": "image/png"
+
+        }
+
+    ],
+
+    "theme_color": "#f08",
+
+    "background_color": "#ffffff",
+
+    "start_url": "https://ilyricsg.blogspot.com",
+
+    "display": "standalone"
+
+}
